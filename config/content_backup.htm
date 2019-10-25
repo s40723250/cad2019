@@ -1,19 +1,4 @@
-<h1>About</h1>
-<p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
-<h4>利用 cmsimde 建立靜態網誌方法:</h4>
-<p>1. 在 github 建立倉儲, git clone 到近端</p>
-<p>2. 參考 <a href="https://github.com/mdecourse/newcms">https://github.com/mdecourse/newcms</a>, 加入除了 cmsimde 目錄外的所有內容</p>
-<p>以 git submodule add <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> cmsimde</p>
-<p>建立 cmsimde 目錄, 並從 github 取下子模組內容.</p>
-<p>3.在近端維護時, 更換目錄到倉儲中的 cmsimde, 以 python wsgi.py 啟動近端網際伺服器.</p>
-<p>動態內容編輯完成後, 以 generate_pages 轉為靜態內容, 以 git add commit 及 push 將內容推到遠端.</p>
-<p>4. 之後若要以 git clone 取下包含 submodule 的所有內容, 執行:</p>
-<p>git clone --recurse-submodules <a href="https://github.com/mdecourse/newcms.git">https://github.com/mdecourse/newcms.git</a></p>
-<h1>Develop</h1>
-<p><a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 的開發, 可以在一個目錄中放入 cmsimde, 然後將 up_dir 中的內容放到與 cmsimde 目錄同位階的地方, 使用 command 進入 cmsimde 目錄, 執行 python wsgi.py, 就可以啟動, 以瀏覽器 https://localhost:9443 就可以連接, 以 admin 作為管理者密碼, 就可以登入維護內容.</p>
-<p>cmsimde 的開發採用 Leo Editor, 開啟 cmsimde 目錄中的 cmsimde.leo 就可以進行程式修改, 結束後, 若要保留網際內容, 只要將 cmsimde 外部的內容倒回 up_dir 目錄中即可後續對 cmsimde 遠端倉儲進行改版.</p>
-<p>init.py 位於  up_dir 目錄, 可以設定 site_title 與 uwsgi 等變數.</p>
-<h1>Week1~9</h1>
+<h1>Week2-9</h1>
 <p>Week1</p>
 <p>中秋節連假</p>
 <p>Week2</p>
@@ -23,7 +8,7 @@
 <p>2. <span>git clone到近端上(至mde.tw中下載2019fall可攜套件)</span></p>
 <p>3. 使用git submodule add之指令建立目錄並取下子模組</p>
 <p>4. 當要開啟近端時必須要先進入cmsimde才能夠打上python wsgi.py指令</p>
-<p>影片 : <a href="https://www.youtube.com/watch?v=j7HWT4OrD18">https://www.youtube.com/watch?v=j7HWT4OrD18</a> <img class="style-scope ytd-moving-thumbnail-renderer" id="thumbnail" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/></p>
+<p>影片 : <iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/j7HWT4OrD18" width="560"></iframe></p>
 <p>Week3</p>
 <p>1.先將<span>Y:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe</span></p>
 <p>2.<span> 打指令git clone </span><span>--recurse-submodules</span></p>
@@ -35,6 +20,26 @@
 <p><span>8.在執行指令cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<br/><span>mingw32-make</span></span></p>
 <p>Week4</p>
 <p>練習+趕前面進度</p>
+<p>week5</p>
+<p><strong>solvespace  練習</strong></p>
+<p><strong>1.運用左方工具列製作一個形狀並擠出 , 在儲存</strong></p>
+<p><strong>2.在開啟多個剛剛製作的物件</strong></p>
+<p><strong>3. 運用左側工具列設定方向</strong></p>
+<p><strong>4. 按O讓兩點相連接</strong></p>
+<p><strong>5. 成品</strong></p>
+<p><strong>快速鍵</strong></p>
+<p><span>sketch rectangle </span>(R)</p>
+<p><span><span>sketch line segment</span>(S)</span></p>
+<p><span><span>sketch circle</span> (C)</span></p>
+<p><span><span>constrain distance </span><span>(D)</span></span></p>
+<p><span><span><span>constrain angle<span> </span></span>(</span>N)</span></p>
+<p><span><span><span>nearest isometric view </span>(F3) </span></span></p>
+<p><span><span><span>align view to workplane</span>(W) </span></span></p>
+<p><span><span><span>equal length/radius/angle</span> <span>(Q)</span></span></span></p>
+<p><strong>成品圖</strong></p>
+<p><strong><img alt="" height="281" src="/images/123.png" width="500"/></strong></p>
+<p><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/t5iQU71qpB4" width="560"></iframe></strong></p>
+<p></p>
 <h2>Week1~2</h2>
 <p><strong>Week1</strong></p>
 <p>中秋節放假</p>
@@ -45,7 +50,8 @@
 <p>3. <span>git clone到近端上(至mde.tw中下載2019fall可攜套件)</span></p>
 <p>4. 使用git submodule add之指令建立目錄並取下子模組</p>
 <p>5. 當要開啟近端時必須要先進入cmsimde才能夠打上python wsgi.py指令</p>
-<p>影片 : <a href="https://www.youtube.com/watch?v=j7HWT4OrD18">https://www.youtube.com/watch?v=j7HWT4OrD18</a> </p>
+<p>影片 :</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/j7HWT4OrD18" width="560"></iframe></p>
 <p></p>
 <h2>Week3~4</h2>
 <p><strong>Week3</strong></p>
@@ -78,4 +84,19 @@
 <p><span><span><span>equal length/radius/angle</span> <span>(Q)</span></span></span></p>
 <p><strong>成品圖</strong></p>
 <p><strong><img alt="" height="281" src="/images/123.png" width="500"/></strong></p>
-<p><strong><img alt="" class="upload-thumb-img" data-ytimg="1" onload=";window.__ytRIL &amp;&amp; __ytRIL(this)" src="https://www.youtube.com/upload_thumbnail?v=t5iQU71qpB4&amp;t=hqdefault&amp;ts=1571320254428" width="194"/></strong></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/t5iQU71qpB4" width="560"></iframe></p>
+<h1>About</h1>
+<p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
+<h4>利用 cmsimde 建立靜態網誌方法:</h4>
+<p>1. 在 github 建立倉儲, git clone 到近端</p>
+<p>2. 參考 <a href="https://github.com/mdecourse/newcms">https://github.com/mdecourse/newcms</a>, 加入除了 cmsimde 目錄外的所有內容</p>
+<p>以 git submodule add <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> cmsimde</p>
+<p>建立 cmsimde 目錄, 並從 github 取下子模組內容.</p>
+<p>3.在近端維護時, 更換目錄到倉儲中的 cmsimde, 以 python wsgi.py 啟動近端網際伺服器.</p>
+<p>動態內容編輯完成後, 以 generate_pages 轉為靜態內容, 以 git add commit 及 push 將內容推到遠端.</p>
+<p>4. 之後若要以 git clone 取下包含 submodule 的所有內容, 執行:</p>
+<p>git clone --recurse-submodules <a href="https://github.com/mdecourse/newcms.git">https://github.com/mdecourse/newcms.git</a></p>
+<h1>Develop</h1>
+<p><a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 的開發, 可以在一個目錄中放入 cmsimde, 然後將 up_dir 中的內容放到與 cmsimde 目錄同位階的地方, 使用 command 進入 cmsimde 目錄, 執行 python wsgi.py, 就可以啟動, 以瀏覽器 https://localhost:9443 就可以連接, 以 admin 作為管理者密碼, 就可以登入維護內容.</p>
+<p>cmsimde 的開發採用 Leo Editor, 開啟 cmsimde 目錄中的 cmsimde.leo 就可以進行程式修改, 結束後, 若要保留網際內容, 只要將 cmsimde 外部的內容倒回 up_dir 目錄中即可後續對 cmsimde 遠端倉儲進行改版.</p>
+<p>init.py 位於  up_dir 目錄, 可以設定 site_title 與 uwsgi 等變數.</p>
