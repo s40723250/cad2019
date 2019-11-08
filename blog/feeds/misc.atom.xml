@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40723250cad2019 - Misc</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2019-11-08T22:31:12+08:00</updated><entry><title>cad2019</title><link href=".%5Ccad2019.html" rel="alternate"></link><published>2019-11-08T22:31:12+08:00</published><updated>2019-11-08T22:31:12+08:00</updated><author><name>羅村偉</name></author><id>tag:None,2019-11-08:.\cad2019.html</id><summary type="html">&lt;p&gt;[week2~week9所學]&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zXcJgbR4Cxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;心得
-從第一周開始我學到如何使用solvespace去繪製物件,這個軟體的好用之處不僅僅只是容量小而已當我需要相同物件但不同尺寸時,我也僅需要進入草圖更改尺寸便可製作出我所需的物件了.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40723250cad2019 - Misc</title><link href="./" rel="alternate"></link><link href=".%5Cfeeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2019-11-08T22:59:34+08:00</updated><entry><title>cad2019</title><link href=".%5Ccad2019.html" rel="alternate"></link><published>2019-11-08T22:59:34+08:00</published><updated>2019-11-08T22:59:34+08:00</updated><author><name>羅村偉</name></author><id>tag:None,2019-11-08:.\cad2019.html</id><summary type="html">&lt;p&gt;week2~week9所學&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zXcJgbR4Cxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;從第一周開始我學到如何使用solvespace去繪製物件,這個軟體的好用之處不僅僅只是容量小而已當我需要相同物件但不同尺寸時,我也僅需要進入草圖更改尺寸便可製作出我所需的物件了.
 另外我也學到如何使用vrep去操作車子的移動方向,相信在不久的將來這些我所學成的東西在各方面上都能幫到我&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;[week2~week9所學]&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zXcJgbR4Cxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;心得
-從第一周開始我學到如何使用solvespace去繪製物件,這個軟體的好用之處不僅僅只是容量小而已當我需要相同物件但不同尺寸時,我也僅需要進入草圖更改尺寸便可製作出我所需的物件了.
+&lt;h3&gt;期中網站&lt;a href="https://s40723250.github.io/cad2019/content/index.html"&gt;s40723250&lt;/a&gt;&lt;/h3&gt;
+</summary><content type="html">&lt;p&gt;week2~week9所學&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zXcJgbR4Cxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;從第一周開始我學到如何使用solvespace去繪製物件,這個軟體的好用之處不僅僅只是容量小而已當我需要相同物件但不同尺寸時,我也僅需要進入草圖更改尺寸便可製作出我所需的物件了.
 另外我也學到如何使用vrep去操作車子的移動方向,相信在不久的將來這些我所學成的東西在各方面上都能幫到我&lt;/p&gt;
+&lt;h3&gt;期中網站&lt;a href="https://s40723250.github.io/cad2019/content/index.html"&gt;s40723250&lt;/a&gt;&lt;/h3&gt;
 
 
 &lt;h3&gt;期中報告&lt;/h3&gt;
