@@ -1,0 +1,226 @@
+<!DOCTYPE html><html>
+        <head>
+        <title>CMSiMDE</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/magnific-popup.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/jquery-ui.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/aos.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/style.css">
+        <link rel="shortcut icon" href="./../cmsimde/static/favicons.png">
+        
+        <style type='text/css'>
+            .site-section {
+            background-color: #FFFF;
+            padding: 40px 40px;
+            }
+            body > div > div.dropdown.open {
+                display: block;
+            }
+        </style>
+    
+        <!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+        <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/normalize.min.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+        <script src="tipuesearch_content.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/tipuesearch.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch.js"></script>
+        <script>
+            /* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+        </script>
+        
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
+<link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+
+<!-- for LaTeX equations 暫時不用
+<script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+<script type="text/javascript">
+init_mathjax = function() {
+    if (window.MathJax) {
+        // MathJax loaded
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+            },
+            displayAlign: 'left', // Change this to 'center' to center equations.
+            "HTML-CSS": {
+                styles: {'.MathJax_Display': {"margin": 0}}
+            }
+        });
+        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
+-->
+<!-- 暫時不用
+<script src="./../cmsimde/static/fengari-web.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
+
+</head>
+<body>
+<div class='container'><nav>
+        
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+            <header class="site-navbar py-4 bg-white" role="banner">
+              <div class="container-fluid">
+                <div class="row align-items-center">
+                <h1>40723250</h1>
+                <div class="pl-4">
+                    <form>
+                    <input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required>
+                    </form>
+                </div>
+                  <!-- <div class="col-11 col-xl-2">
+                    <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">40723250</a></h1> 
+                  </div>
+                  -->
+                  <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+    <ul class='site-menu js-clone-nav mr-auto d-none d-lg-block'>
+                        <li class="active has-children"><a href="index.html">Home</a>
+                        <ul class="dropdown">
+                            <li><a href="sitemap.html">Site Map</a></li>
+                            <li><a href="./../reveal/index.html">reveal</a></li>
+                            <li><a href="./../blog/index.html">blog</a></li>
+                        </ul>
+                      </li>
+                     <li class='has-children'><a href='Week2~18.html'>Week2~18</a><ul class='dropdown'><li><a href='Week1~2.html'>Week1~2</a><li><a href='Week3~4.html'>Week3~4</a><li><a href='Week5~6.html'>Week5~6</a><li><a href='Week7~9.html'>Week7~9</a><li><a href='Week10~12.html'>Week10~12</a><li><a href='Week13~15.html'>Week13~15</a><li><a href='WEEK16~18.html'>WEEK16~18</a></li></ul><li class='has-children'><a href='Note.html'>Note</a><ul class='dropdown'><li><a href='Solidworks.html'>Solidworks</a><li><a href='NX.html'>NX</a></li></ul><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
+                      </ul>
+                </nav>
+              </div>
+              <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+              </div>
+
+            </div>
+          </div>
+          
+        </header>
+    <div id="tipue_search_content">Week13~15 << <a href='Week13~15.html'>Previous</a> <a href='Note.html'>Next</a> >> Note<br /><h1>WEEK16~18</h1>
+<h6>WEEK16</h6>
+<p>WEEK17</p>
+<p><span style="font-weight: 400;">We now run the simulation: the robot will collapse, since the joints are not controlled by default. </span><a href="http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm#joints"><span style="font-weight: 400;">When we added the joints in the previous stage</span></a><span style="font-weight: 400;">, we created joints in force/torque mode, but their motor or controller was disabled (by default). We can now adjust our joints to our requirements. In our case, we want a simple PID controller for each one of them. In the joint dynamic properties, we click </span><b>Motor enabled</b><span style="font-weight: 400;"> and adjust the </span><b>maximum torque</b><span style="font-weight: 400;">. We then click </span><b>Control loop enabled</b><span style="font-weight: 400;"> and select </span><b>Position control (PID)</b><span style="font-weight: 400;">. We now run the simulation again: the robot should hold its position. Try to switch the current physics engine to see if the behaviour is consistent across all supported physics engines. You can do this via the appropriate </span><a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#toolbars"><span style="font-weight: 400;">toolbar button</span></a><span style="font-weight: 400;">, or in the </span><a href="http://www.coppeliarobotics.com/helpFiles/en/dynamicsDialog.htm"><span style="font-weight: 400;">general dynamics properties</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">現在我們運行模擬：由於默認情況下關節不受控制，因此機器人將崩潰。 在上一階段添加關節時，我們以力/扭矩模式創建了關節，但其電動機或控制器已禁用（默認情況下）。 現在，我們可以根據需要調整關節。 在我們的案例中，我們希望為每個控制器都提供一個簡單的PID控制器。 在關節動態屬性中，單擊“啟用電機”並調整最大扭矩。 然後，單擊啟用控制環，然後選擇位置控制（PID）。 現在，我們再次運行仿真：機器人應保持其位置。 嘗試切換當前的物理引擎，以查看行為在所有受支持的物理引擎之間是否一致。 您可以通過相應的工具欄按鈕或在常規動力學屬性中執行此操作。</span></p>
+<p><span style="font-weight: 400;">During simulation, we now verify the scene dynamic content via the </span><a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#toolbars"><span style="font-weight: 400;">Dynamic content visualization &amp; verification toolbar button</span></a><span style="font-weight: 400;">. Now, only items that are taken into account by the physics engine will be display, and the display is </span><a href="http://www.coppeliarobotics.com/helpFiles/en/designingDynamicSimulations.htm#dynamicContentVisualization"><span style="font-weight: 400;">color-coded</span></a><span style="font-weight: 400;">. It is </span><b>very important</b><span style="font-weight: 400;"> to always do this, and specially when your dynamic model doesn't behave as expected, in order to quickly debug the model. Similarly, always look at the scene hierarchy during simulation: dynamically enabled objects should display a ball-bounding icon on the right-hand side of their name.</span></p>
+<p><span style="font-weight: 400;">在仿真過程中，我們現在通過“動態內容可視化和驗證”工具欄按鈕來驗證場景動態內容。 現在，將僅顯示物理引擎考慮的項目，並且該顯示使用顏色編碼。 始終執行此操作非常重要，尤其是在動態模型無法按預期運行時，為了快速調試模型，尤其如此。 同樣，在仿真過程中請始終查看場景層次：動態啟用的對象應在其名稱的右側顯示一個球形圖標。</span></p>
+<p><span style="font-weight: 400;"><img alt="" height="358" src="./../images/modelTut22.jpg" width="453"/></span></p>
+<p><span style="font-weight: 400;">Finally, we need to prepare the robot so that we can easily attach a gripper to it, or easily attach the robot to a mobile platform (for instance). Two dynamically enabled shapes can be rigidly attached to each other in two different ways:</span></p>
+<p><b>*by grouping them</b><span style="font-weight: 400;">: select the shapes, then [Menu bar --&gt; Edit --&gt; Grouping/Merging --&gt; Group selected shapes].</span></p>
+<p><b>*by attaching them via a force/torque sensor</b><span style="font-weight: 400;">: a </span><a href="http://www.coppeliarobotics.com/helpFiles/en/forceSensors.htm"><span style="font-weight: 400;">force torque sensor</span></a><span style="font-weight: 400;"> can also act as a rigid link between two separate dynamically enabled shapes.</span></p>
+<p><span style="font-weight: 400;">最後，我們需要準備機器人，以便我們可以輕鬆地將抓取器連接到它，或輕鬆地將機器人連接到移動平台（例如）。 可以通過兩種不同的方式將兩個動態啟用的形狀嚴格地彼此附加：</span></p>
+<p><span style="font-weight: 400;">*通過對它們進行分組：選擇形狀，然後選擇[菜單欄-&gt;編輯-&gt;分組/合併-&gt;對選定形狀進行分組]。</span></p>
+<p><span style="font-weight: 400;">*通過通過力/扭矩傳感器進行連接：力扭矩傳感器還可以充當兩個單獨的動態啟用形狀之間的剛性鏈接。</span></p>
+<p><span style="font-weight: 400;">In our case, only option 2 is of interest. We create a force/torque sensor with [Menu bar --&gt; Add --&gt; Force sensor], then move it to the tip of the robot, then attach it to object </span><i><span style="font-weight: 400;">robot_link_dyn6</span></i><span style="font-weight: 400;">. We change its size and visual appearance appropriately (a red force/torque sensor is often perceived as an optional attachment point, check the various robot models available). We also change its name to </span><i><span style="font-weight: 400;">robot_attachment</span></i><span style="font-weight: 400;">:</span></p>
+<p><span style="font-weight: 400;">在我們的情況下，只有選項2是有意義的。 我們使用[菜單欄-&gt;添加-&gt;力傳感器]創建一個力/扭矩傳感器，然後將其移動到機器人的尖端，然後將其附加到對象robot_link_dyn6。 我們會適當地更改其尺寸和外觀（紅色力/扭矩傳感器通常被視為可選的連接點，請檢查可用的各種機器人型號）。 我們還將其名稱更改為robot_attachment：</span></p>
+<p><span style="font-weight: 400;"><img alt="" height="365" src="./../images/modelTut23.jpg" width="461"/></span></p>
+<p><span style="font-weight: 400;">Now we drag a gripper model into the scene, keep it selected, then control-click the attachment force sensor, then click the </span><a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#toolbars"><span style="font-weight: 400;">Assembling/disassembling toolbar button</span></a><span style="font-weight: 400;">. The gripper goes into place:</span></p>
+<p><span style="font-weight: 400;">現在，我們將抓手模型拖到場景中，使其保持選中狀態，然後按住Control鍵單擊並單擊附著力傳感器，然後單擊“裝配/拆卸”工具欄按鈕。 夾持器到位：</span></p>
+<p><span style="font-weight: 400;"><img alt="" height="325" src="./../images/modelTut24.jpg" width="450"/></span></p>
+<p><span style="font-weight: 400;">The gripper knew how to attach itself because it was appropriately configured during its model definition. We now also need to properly configure the robot model, so that it will know how to attach itself to a mobile base for instance. We select the robot model, then click </span><b>Assembling</b><span style="font-weight: 400;"> in the </span><a href="http://www.coppeliarobotics.com/helpFiles/en/commonPropertiesDialog.htm"><span style="font-weight: 400;">object common properties</span></a><span style="font-weight: 400;">. Set an empty string for </span><b>'Parent' match values</b><span style="font-weight: 400;">, then click </span><b>Set matrix</b><span style="font-weight: 400;">. This will memorize the current base object's local transformation matrix, and use it to position/orient itself relative to the mobile robot's attachment point. To verify that we did things right, we drag the model </span><i><span style="font-weight: 400;">Models/robots/mobile/KUKA Omnirob.ttm</span></i><span style="font-weight: 400;"> into the scene. Then we select our robot model, then control-click one of the attachment points on the mobile platform, then click the </span><a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#toolbars"><span style="font-weight: 400;">Assembling/disassembling toolbar button</span></a><span style="font-weight: 400;">. Our robot should correctly place itself on top of the mobile robot:</span></p>
+<p><span style="font-weight: 400;">抓具知道如何附加自身，因為它在模型定義期間進行了適當的配置。 現在，我們還需要正確配置機器人模型，以便它將知道如何將自己附加到移動基座上。 我們選擇機器人模型，然後在對象公共屬性中單擊“組裝”。 為“父項”匹配值設置一個空字符串，然後單擊“設置矩陣”。 這將記住當前基礎對象的局部轉換矩陣，並使用它相對於移動機器人的附著點定位/定向。 為了驗證我們做的正確，我們將模型Models / robots / mobile / KUKA Omnirob.ttm拖到場景中。 然後，我們選擇機器人模型，然後在移動平台上按住Control鍵並單擊其中一個附接點，然後單擊“組裝/拆卸”工具欄按鈕。 我們的機器人應該正確地將自己放置在移動機器人的頂部：</span></p>
+<p><span style="font-weight: 400;"><img alt="" height="550" src="./../images/modelTut25.jpg" width="365"/></span></p>
+<p><span style="font-weight: 400;">Now we could add additional items to our robot, such as sensors for instance. At some point we might also want to attach </span><a href="http://www.coppeliarobotics.com/helpFiles/en/scripts.htm"><span style="font-weight: 400;">embedded scripts</span></a><span style="font-weight: 400;"> to our model, in order to control its behaviour or configure it for various purposes. In that case, make sure to understand </span><a href="http://www.coppeliarobotics.com/helpFiles/en/accessingGeneralObjects.htm"><span style="font-weight: 400;">how object handles are accessed from embedded scripts</span></a><span style="font-weight: 400;">. We can also control/access/interface our model from a </span><a href="http://www.coppeliarobotics.com/helpFiles/en/plugins.htm"><span style="font-weight: 400;">plugin</span></a><span style="font-weight: 400;">, from a </span><a href="http://www.coppeliarobotics.com/helpFiles/en/remoteApiOverview.htm"><span style="font-weight: 400;">remote API</span></a><span style="font-weight: 400;"> client, from a </span><a href="http://www.coppeliarobotics.com/helpFiles/en/rosInterfaces.htm"><span style="font-weight: 400;">ROS</span></a><span style="font-weight: 400;"> node, from a </span><a href="http://www.coppeliarobotics.com/helpFiles/en/blueZeroPlugin.htm"><span style="font-weight: 400;">BlueZero</span></a><span style="font-weight: 400;"> node, or from an </span><a href="http://www.coppeliarobotics.com/helpFiles/en/addOns.htm"><span style="font-weight: 400;">add-on</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">現在，我們可以向機器人添加其他項目，例如傳感器。 在某些時候，我們可能還希望將嵌入式腳本附加到我們的模型中，以便控制其行為或出於各種目的對其進行配置。 在這種情況下，請確保了解如何從嵌入式腳本訪問對象句柄。 我們還可以通過插件，遠程API客戶端，ROS節點，BlueZero節點或附加組件來控制/訪問/接口模型。</span></p>
+<p><span style="font-weight: 400;">Now we make sure we have reverted the changes done during robot and gripper attachment, we collapse the hierarchy tree of our robot model, select the base of our model, then save it with [Menu bar --&gt; File --&gt; Save model as...]. If we saved it in the </span><i><span style="font-weight: 400;">model</span></i><span style="font-weight: 400;"> folder, then the model will be available in the </span><a href="http://www.coppeliarobotics.com/helpFiles/en/userInterface.htm#ModelBrowser"><span style="font-weight: 400;">model brower</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">現在，確保已恢復在機械手和抓爪安裝過程中所做的更改，我們折疊了機械手模型的層次樹，選擇了模型的基礎，然後使用[菜單欄-&gt;文件-&gt;將模型另存為 ...]。 如果我們將其保存在模型文件夾中，則模型將在模型瀏覽器中可用。</span></p>
+<br />Week13~15 << <a href='Week13~15.html'>Previous</a> <a href='Note.html'>Next</a> >> Note</div>
+        
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+    
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        </body></html>
+        
