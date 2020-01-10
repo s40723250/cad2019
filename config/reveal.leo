@@ -247,6 +247,7 @@ vertical: body pane on the botton</t>
 
 ### 創建github倉儲並且練習github指令
 影片:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/j7HWT4OrD18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -328,6 +329,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 ### week2~8周學習成果
 
 影片:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zXcJgbR4Cxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -404,6 +406,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 ### solvespace  練習
 
 影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/t5iQU71qpB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -426,6 +429,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 ### 繪製兩輪車
 影片
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eH2gwncr61w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -449,7 +453,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 ### 使用solvespace繪製零件
 
 影片:
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/T5GXbv1RSYY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
@@ -473,7 +477,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 ssh對github做連線
 
 影片:
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_udM6dFAtu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
@@ -529,7 +533,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 ### WEEL10~14所學
 影片:
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/o8BIe7BWQyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
