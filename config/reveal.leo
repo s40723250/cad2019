@@ -18,68 +18,50 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
-<v t="leo.20200110094419.1"><vh>封面投影片</vh>
-<v t="leo.20200110094419.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110112303.1"><vh>01</vh>
+<v t="leo.20200110112303.2"><vh>1</vh></v>
 </v>
-<v t="leo.20200110094443.1"><vh>封面投影片</vh>
-<v t="leo.20200110094443.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113444.1"><vh>02</vh>
+<v t="leo.20200110113444.4"><vh>2</vh></v>
 </v>
-<v t="leo.20200110094503.1"><vh>封面投影片</vh>
-<v t="leo.20200110094503.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113445.1"><vh>03</vh>
+<v t="leo.20200110113445.6"><vh>3</vh></v>
 </v>
-<v t="leo.20200110094514.1"><vh>封面投影片</vh>
-<v t="leo.20200110094514.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113501.1"><vh>04</vh>
+<v t="leo.20200110113501.8"><vh>4</vh></v>
 </v>
-<v t="leo.20200110094517.1"><vh>封面投影片</vh>
-<v t="leo.20200110094517.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113502.1"><vh>05</vh>
+<v t="leo.20200110113502.10"><vh>5</vh></v>
 </v>
-<v t="leo.20200110094519.1"><vh>封面投影片</vh>
-<v t="leo.20200110094519.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113505.1"><vh>06</vh>
+<v t="leo.20200110113505.12"><vh>6</vh></v>
 </v>
-<v t="leo.20200110094521.1"><vh>封面投影片</vh>
-<v t="leo.20200110094521.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113507.1"><vh>07</vh>
+<v t="leo.20200110113507.14"><vh>7</vh></v>
 </v>
-<v t="leo.20200110094524.1"><vh>封面投影片</vh>
-<v t="leo.20200110094524.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113447.1"><vh>08</vh>
+<v t="leo.20200110113447.16"><vh>8</vh></v>
 </v>
-<v t="leo.20200110094527.1"><vh>封面投影片</vh>
-<v t="leo.20200110094527.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113449.1"><vh>09</vh>
+<v t="leo.20200110113449.18"><vh>9</vh></v>
 </v>
-<v t="leo.20200110094529.1"><vh>封面投影片</vh>
-<v t="leo.20200110094529.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113456.1"><vh>010</vh>
+<v t="leo.20200110113456.20"><vh>10</vh></v>
 </v>
-<v t="leo.20200110094531.1"><vh>封面投影片</vh>
-<v t="leo.20200110094531.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113510.1"><vh>011</vh>
+<v t="leo.20200110113510.22"><vh>11</vh></v>
 </v>
-<v t="leo.20200110094533.1"><vh>封面投影片</vh>
-<v t="leo.20200110094533.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113512.1"><vh>012</vh>
+<v t="leo.20200110113512.24"><vh>12</vh></v>
 </v>
-<v t="leo.20200110094535.1"><vh>封面投影片</vh>
-<v t="leo.20200110094535.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113515.1"><vh>013</vh>
+<v t="leo.20200110113515.26"><vh>13</vh></v>
 </v>
-<v t="leo.20200110105117.1"><vh>封面投影片</vh>
-<v t="leo.20200110105117.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110113516.1"><vh>014</vh>
+<v t="leo.20200110113516.28"><vh>14</vh></v>
 </v>
-<v t="leo.20200110105126.1"><vh>封面投影片</vh>
-<v t="leo.20200110105126.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20200110094537.1"><vh>封面投影片</vh></v>
-</v>
-<v t="leo.20200110093935.1"><vh>封面投影片</vh></v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180902120523.18"><vh>導入影片</vh>
-<v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
-</v>
+<v t="leo.20200110113518.1"><vh>015</vh>
+<v t="leo.20200110113518.30"><vh>15</vh></v>
 </v>
 </v>
 </v>
@@ -91,102 +73,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
@@ -272,15 +158,6 @@ CMSimfly 網際內容管理
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -357,7 +234,7 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200110093935.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110112303.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -366,19 +243,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200110094419.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20200110112303.2">## WEEK2
 
-
-						
-</t>
-<t tx="leo.20200110094419.2">## WEEK2
-
-### 
-創建github倉儲並且練習github指令
+### 創建github倉儲並且練習github指令
 影片:
 
 &lt;small&gt;
@@ -389,7 +256,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094443.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113444.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -398,7 +265,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110094443.2">## WEEK3
+<t tx="leo.20200110113444.4">## WEEK3
 
 ### 1.先將Y:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe
 
@@ -426,7 +293,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094503.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113445.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -435,7 +302,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110094503.2">## WEEK4
+<t tx="leo.20200110113445.6">## WEEK4
 
 ### 趕進度
 
@@ -447,7 +314,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094514.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113447.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -456,99 +323,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110094514.2">## WEEK5
-
-### solvespace  練習
-
-影片
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20200110094517.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200110094517.2">## WEEK6
-
-### 繪製兩輪車
-影片
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20200110094519.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200110094519.2">## WEEK7
-
-### 使用solvespace繪製零件
-
-影片:
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20200110094521.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200110094521.2">## WEEK8
-
-### 開啟部落格+編輯
-ssh對github做連線
-
-影片:
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20200110094524.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200110094524.2">## WEEK9
+<t tx="leo.20200110113447.16">## WEEK9
 
 ### week2~8周學習成果
 
@@ -562,7 +337,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094527.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113449.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -571,7 +346,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110094527.2">## WEEK10
+<t tx="leo.20200110113449.18">## WEEK10
 
 ### 創建小組倉儲
 
@@ -593,7 +368,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094529.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113456.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -602,7 +377,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110094529.2">## WEEK12
+<t tx="leo.20200110113456.20">## WEEK12
 
 ### NX翻譯+丟入小組倉儲
 
@@ -615,7 +390,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094531.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113501.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -624,7 +399,99 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110094531.2">## WEEK13
+<t tx="leo.20200110113501.8">## WEEK5
+
+### solvespace  練習
+
+影片
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113502.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110113502.10">## WEEK6
+
+### 繪製兩輪車
+影片
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113505.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110113505.12">## WEEK7
+
+### 使用solvespace繪製零件
+
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113507.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110113507.14">## WEEK8
+
+### 開啟部落格+編輯
+ssh對github做連線
+
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110113510.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110113510.22">## WEEK13
 
 ### 學習+練習webots
 1.先創立一個資料夾
@@ -649,7 +516,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094533.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113512.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -658,7 +525,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110094533.2">## WEEK15
+<t tx="leo.20200110113512.24">## WEEK15
 
 ### WEEL10~14所學
 影片:
@@ -671,7 +538,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094535.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113515.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -680,7 +547,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110094535.2">## WEEK16
+<t tx="leo.20200110113515.26">## WEEK16
 
 ### 使用 solvespace 繪製協力車+導入webots 以及v-rep
 影片:
@@ -693,7 +560,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110094537.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113516.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -702,16 +569,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110105117.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200110105117.2">## WEEK17
+<t tx="leo.20200110113516.28">## WEEK17
 
 ### 翻譯+丟入小組倉儲  以及執行任務2
 影片:
@@ -724,7 +582,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20200110105126.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110113518.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -733,7 +591,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20200110105126.2">## WEEK18
+<t tx="leo.20200110113518.30">## WEEK18
 
 ### 自評成績 : 65
 學員出席 (10%)
