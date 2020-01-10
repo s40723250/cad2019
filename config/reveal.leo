@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,28 +10,74 @@
 <v t="leo.20180902120538.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180902120538.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180902120523.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180902120523.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180902120523.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180902120523.4" a="E"><vh>html</vh>
+<v t="leo.20180902120523.1"><vh>編輯 reveal</vh>
+<v t="leo.20180902120523.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180902120523.3"><vh>@clean index.html</vh>
+<v t="leo.20180902120523.4"><vh>html</vh>
 <v t="leo.20180902120523.5"><vh>head</vh></v>
-<v t="leo.20180902120523.6" a="E"><vh>body</vh>
-<v t="leo.20180902120523.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
-<v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20180902120523.6"><vh>body</vh>
+<v t="leo.20180902120523.7"><vh>reveal div</vh>
+<v t="leo.20180902120523.8"><vh>slides div</vh>
+<v t="leo.20180902120523.9"><vh>封面投影片</vh>
+<v t="leo.20200110094419.1"><vh>封面投影片</vh>
+<v t="leo.20200110094419.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20200110094443.1"><vh>封面投影片</vh>
+<v t="leo.20200110094443.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094503.1"><vh>封面投影片</vh>
+<v t="leo.20200110094503.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094514.1"><vh>封面投影片</vh>
+<v t="leo.20200110094514.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094517.1"><vh>封面投影片</vh>
+<v t="leo.20200110094517.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094519.1"><vh>封面投影片</vh>
+<v t="leo.20200110094519.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094521.1"><vh>封面投影片</vh>
+<v t="leo.20200110094521.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094524.1"><vh>封面投影片</vh>
+<v t="leo.20200110094524.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094527.1"><vh>封面投影片</vh>
+<v t="leo.20200110094527.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094529.1"><vh>封面投影片</vh>
+<v t="leo.20200110094529.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094531.1"><vh>封面投影片</vh>
+<v t="leo.20200110094531.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094533.1"><vh>封面投影片</vh>
+<v t="leo.20200110094533.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094535.1"><vh>封面投影片</vh>
+<v t="leo.20200110094535.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110105117.1"><vh>封面投影片</vh>
+<v t="leo.20200110105117.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110105126.1"><vh>封面投影片</vh>
+<v t="leo.20200110105126.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110094537.1"><vh>封面投影片</vh></v>
+</v>
+<v t="leo.20200110093935.1"><vh>封面投影片</vh></v>
+<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -48,18 +91,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
-
-### KMOLab
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -326,5 +357,399 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200110093935.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094419.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094419.2">## WEEK2
+
+### 創建github倉儲並且練習github指令
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094443.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094443.2">## WEEK3
+
+### 
+1.先將Y:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe
+
+2. 打指令git clone --recurse-submodules
+
+3.到untitle編輯cmakelist內之713及714行(加入#字號)
+
+4.進入資料夾cd solvespace&gt;cd extlib&gt;cd libpng&gt;mkdir build&gt;cd build
+
+5.執行cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release
+mingw32-make
+
+6.找到檔案 libpng.dll.a 更名, 更名名為 libpng_static.a
+
+7.回到 solvespace 目錄,建立 build 目錄後進入 build 資料夾
+
+8.在執行指令cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release
+mingw32-make
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094503.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094503.2">## WEEK4
+
+### 趕進度
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094514.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094514.2">## WEEK5
+
+### solvespace  練習
+
+影片
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094517.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094517.2">## WEEK6
+
+### 繪製兩輪車
+影片
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094519.2">## WEEK7
+
+### 使用solvespace繪製零件
+
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094521.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094521.2">## WEEK8
+
+### 開啟部落格+編輯
+ssh對github做連線
+
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094524.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094524.2">## WEEK9
+
+### week2~8周學習成果
+
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094527.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094527.2">## WEEK10
+
+### 創建小組倉儲
+
+1.組長創建分組網站https://s40723221.github.io/cad2019bg2/content/index.html
+
+分組倉儲https://github.com/s40723221/cad2019bg2
+
+2.由組員透過fork加入創建之分組網站
+
+3.加入後用git  clone submodules 組別倉儲網址 
+
+4.以git pull request的方式進行推送(必須由組長認證推送內容才可以成功推送)
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094529.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094529.2">## WEEK12
+
+### NX翻譯+丟入小組倉儲
+
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094531.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094531.2">## WEEK13
+
+### 學習+練習webots
+1.先創立一個資料夾
+
+2.建立一個新的世界
+
+3.設定方格參數與圍牆高度
+
+4.建立木塊
+
+5.建立一個機器人
+
+6.建立程式控制器
+
+7.導入機器人內
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094533.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094533.2">## WEEK15
+
+### WEEL10~14所學
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094535.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110094535.2">## WEEK16
+
+### 使用 solvespace 繪製協力車+導入webots 以及v-rep
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110094537.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110105117.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110105117.2">## WEEK17
+
+### 翻譯+丟入小組倉儲  以及執行任務2
+影片:
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110105126.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110105126.2">## WEEK18
+
+### 自評成績 : 65
+學員出席 (10%)
+個人倉儲與網站查驗 (20%)
+Task1: 參數式繪圖軟體 Solvespace 編譯、零組件繪圖與應用 (10%)
+Task2: MCAD 套件安裝與設定, 零組件繪圖、轉檔與 CAE 工程分析 (10%)
+Task3: Rover 零組件轉入 V-rep 與 Webots 執行機電控制系統設計 (20%)
+Project: 機電資整合分組專案執行 (30%)
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
 </tnodes>
 </leo_file>
