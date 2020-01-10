@@ -23,6 +23,9 @@
 <v t="leo.20200110094419.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200110094443.1"><vh>封面投影片</vh>
+<v t="leo.20200110111553.1"><vh>封面投影片</vh>
+<v t="leo.20200110111553.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20200110094443.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20200110094503.1"><vh>封面投影片</vh>
@@ -736,11 +739,38 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 ### 自評成績 : 65
 學員出席 (10%)
+
 個人倉儲與網站查驗 (20%)
+
 Task1: 參數式繪圖軟體 Solvespace 編譯、零組件繪圖與應用 (10%)
+
 Task2: MCAD 套件安裝與設定, 零組件繪圖、轉檔與 CAE 工程分析 (10%)
+
 Task3: Rover 零組件轉入 V-rep 與 Webots 執行機電控制系統設計 (20%)
+
 Project: 機電資整合分組專案執行 (30%)
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200110111553.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110111553.2">## WEEK2
+
+### 創建github倉儲並且練習github指令
+影片:
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
