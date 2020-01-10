@@ -399,8 +399,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20200110094443.2">## WEEK3
 
-### 
-1.先將Y:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe
+### 1.先將Y:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe
 
 2. 打指令git clone --recurse-submodules
 
